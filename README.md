@@ -3,11 +3,9 @@
 # Analisis Penjualan & Efisiensi Operasional — UD Taquer Copy
 
 ## Latar Belakang & Masalah Bisnis
-**UD Taquer Copy** adalah unit dagang percetakan dan fotokopi yang memiliki dua cabang di Yogyakarta (**Outlet Utama (Pusat)** dan **Outlet Cabang Kampus**). Meskipun kunjungan pelanggan harian cukup stabil, manajemen belum memiliki gambaran jelas mengenai layanan mana yang paling menguntungkan, perbedaan karakter pelanggan antar cabang, serta kendala operasional yang memotong margin keuntungan.
+**UD Taquer Copy** adalah unit dagang percetakan dan fotokopi yang memiliki dua cabang(**Outlet Utama (Pusat)** dan **Outlet Cabang Kampus**). Meskipun kunjungan pelanggan harian cukup stabil, manajemen belum memiliki gambaran jelas mengenai layanan mana yang paling menguntungkan, perbedaan karakter pelanggan antar cabang, serta kendala operasional yang memotong margin keuntungan.
 
-Proyek ini mengolah **3.010 baris data transaksi mentah** (Januari 2025 – Oktober 2026) menjadi data siap analisis menggunakan **SQL** dan menampilkannya ke dalam **dashboard interaktif 2 halaman di Tableau**.
-
- **[Lihat Dashboard Interaktif di Tableau Public](MASUKKAN_LINK_TABLEAU_PUBLIC_KAMU_DI_SINI)**
+Proyek ini mengolah **3.010 baris data transaksi mentah** (Januari 2025 – Oktober 2026) menjadi data siap analisis menggunakan **SQL** dan menampilkannya ke dalam **dashboard interaktif 1 halaman di Tableau**.
 
 ---
 
