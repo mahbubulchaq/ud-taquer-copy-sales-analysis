@@ -71,8 +71,7 @@ Sebelum divisualisasikan, sebuah tabel tampilan analitik (`vw_taquer_sales_analy
 ├── sql/
 │   └── data_cleaning_and_modeling.sql  # Skrip SQL pembuatan tabel & olah data
 ├── images/
-│   ├── dashboard_page1_sales.png       # Tangkapan layar Tableau Halaman 1
-│   └── dashboard_page2_ops.png         # Tangkapan layar Tableau Halaman 2
+│   ├── dashboard_page_sales.png       # Tangkapan layar Tableau 
 └── README.md
 ```
 
