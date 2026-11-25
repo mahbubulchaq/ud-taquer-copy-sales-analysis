@@ -2,10 +2,6 @@
 
 # Analisis Penjualan & Efisiensi Operasional — UD Taquer Copy
 
-![SQL](https://shields.io)
-![Tableau](https://shields.io)
-![Status](https://shields.io)
-
 ## Latar Belakang & Masalah Bisnis
 **UD Taquer Copy** adalah unit dagang percetakan dan fotokopi yang memiliki dua cabang di Yogyakarta (**Outlet Utama (Pusat)** dan **Outlet Cabang Kampus**). Meskipun kunjungan pelanggan harian cukup stabil, manajemen belum memiliki gambaran jelas mengenai layanan mana yang paling menguntungkan, perbedaan karakter pelanggan antar cabang, serta kendala operasional yang memotong margin keuntungan.
 
