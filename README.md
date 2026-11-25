@@ -1,5 +1,3 @@
-# ud-taquer-copy-sales-analysis
-
 # Analisis Penjualan & Efisiensi Operasional — UD Taquer Copy
 
 ## Latar Belakang & Masalah Bisnis
